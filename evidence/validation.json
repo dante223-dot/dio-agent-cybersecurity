@@ -1,0 +1,21 @@
+{
+  "recorded_at_utc": "2026-10-28T23:15:26.584698+00:00",
+  "python": "3.12.14",
+  "platform": "Windows",
+  "command": "python -m scripts.validate --record",
+  "tests_run": 12,
+  "failures": 0,
+  "errors": 0,
+  "success": true,
+  "scope": "SQL Injection no laboratório local; não é avaliação do Hermes/LLM",
+  "sha256": {
+    "app.py": "982220ae2a6ca767cf8840c59f7d286aebd33d86776c1c9dda5d463c8963ae71",
+    "examples/__init__.py": "a39341a6cceecedb2690672f93ce51c4a466dfbb94d8b88f01a74c7102a26632",
+    "examples/lab_database.py": "b9c14983f2ba41f2b04131f9bdaab84e70dda874406fdda7ee7e452506c6a690",
+    "examples/vulnerable_app.py": "e7bfb107bb4dad954d862b50a3ee2221b6fb2523a85fc2c542470665d3504f1e",
+    "scripts/__init__.py": "f8c137f69972ba63c2774e5427bea80d3331215f567b6c25a51a749d5ebfccad",
+    "scripts/demo.py": "6451c69b0a962114cdb3db0572d5e84cf77998312e16af28069bcfa0f9f97638",
+    "scripts/validate.py": "533b74a884d71f9af59bd6115ffaedc728abd31102eed1ae59b573e0c185d383",
+    "tests/test_login.py": "c53f0bfe71d05fcd2fa5fdd63567faa7234042644e1bbe78db0d0a45a274a695"
+  }
+}

@@ -1,0 +1,9 @@
+LABORATÓRIO LOCAL — SQLite em memória
+Caso | Antes (vulnerável) | Depois (parametrizado)
+Credenciais legítimas | True | True
+Senha incorreta | False | False
+Injeção no usuário | True | False
+Injeção na senha | True | False
+Conta legítima com aspas e acento, após correção: True
+True = login aceito; False = login recusado.
+Escopo: SQL Injection no login. Senhas fictícias em texto puro; não usar em produção.

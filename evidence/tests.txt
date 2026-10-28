@@ -1,0 +1,17 @@
+test_empty_credentials_are_rejected (test_login.LoginSecurityTests.test_empty_credentials_are_rejected) ... ok
+test_fixed_login_blocks_same_password_bypass (test_login.LoginSecurityTests.test_fixed_login_blocks_same_password_bypass) ... ok
+test_fixed_login_blocks_same_username_bypass (test_login.LoginSecurityTests.test_fixed_login_blocks_same_username_bypass) ... ok
+test_legitimate_login_works_before_and_after (test_login.LoginSecurityTests.test_legitimate_login_works_before_and_after) ... ok
+test_legitimate_quotes_and_unicode_are_supported (test_login.LoginSecurityTests.test_legitimate_quotes_and_unicode_are_supported) ... ok
+test_nonexistent_user_is_rejected (test_login.LoginSecurityTests.test_nonexistent_user_is_rejected) ... ok
+test_sql_like_inputs_preserve_database_contents (test_login.LoginSecurityTests.test_sql_like_inputs_preserve_database_contents) ... ok
+test_sql_shaped_username_can_be_a_literal_account (test_login.LoginSecurityTests.test_sql_shaped_username_can_be_a_literal_account) ... ok
+test_valid_username_cannot_use_another_users_password (test_login.LoginSecurityTests.test_valid_username_cannot_use_another_users_password) ... ok
+test_vulnerable_login_allows_password_bypass (test_login.LoginSecurityTests.test_vulnerable_login_allows_password_bypass) ... ok
+test_vulnerable_login_allows_username_bypass (test_login.LoginSecurityTests.test_vulnerable_login_allows_username_bypass) ... ok
+test_wrong_password_is_rejected_before_and_after (test_login.LoginSecurityTests.test_wrong_password_is_rejected_before_and_after) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.015s
+
+OK
