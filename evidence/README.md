@@ -13,6 +13,7 @@ O [relatório técnico](../docs/analise-sql-injection.md) foi escrito a partir d
 
 ## Pendente
 
+- Concluir a instalação local do Hermes: o instalador oficial falhou no bootstrap do Python. Veja o [registro do ambiente](ambiente-hermes.md).
 - Autenticar um provedor de modelo no Hermes e executar os [cenários comportamentais](../docs/cenarios-de-avaliacao.md).
 - Registrar capturas reais da análise e das perguntas de contexto.
 
